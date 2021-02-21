@@ -1,6 +1,11 @@
 @import "reset.css";
-/*Components*/
+
+/* Components */
 @import "components/status-bar.css";
 @import "components/nav-bar.css";
-/*Screens*/
+
+/* Screens */
 @import "screens/login.css";
+body {
+  font-family: "Open Sans", sans-serif;
+}
